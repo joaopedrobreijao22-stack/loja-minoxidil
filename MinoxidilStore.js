@@ -1,0 +1,1 @@
+export default function MinoxidilStore() { return <h1>Loja Minoxidil</h1> }
